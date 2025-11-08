@@ -425,3 +425,4 @@ Built as a demo for Vibe Commerce screening.
 ---
 
 **Live on GitHub:** https://github.com/yourusername/vibe-commerce
+**Deployed Link** https://vibe-comm.vercel.app/
